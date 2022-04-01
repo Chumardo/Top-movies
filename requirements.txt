@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gunicorn==20.1.0
+=======
+gunicorn==20.1.0
+>>>>>>> e82f32c4a041d9c8f301aa3d9d1e11a4aa7d8748
